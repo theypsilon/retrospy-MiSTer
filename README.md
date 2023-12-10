@@ -1,4 +1,4 @@
-# Custom Database Template for the MiSTer Downloader
+# RetroSpy Update Database for the MiSTer Downloader
 
 Database to keep RetroSpy for MiSTer up to date.
 
